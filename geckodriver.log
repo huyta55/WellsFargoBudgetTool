@@ -1,0 +1,39 @@
+1646280684004	geckodriver	INFO	Listening on 127.0.0.1:63260
+1646280687065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63261" "-no-remote" "-profile" "C:\\Users\\Huy\\AppData\\Local\\Temp\\rust_mozprofileFJAK4J"
+1646280687731	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Huy\\AppData\\Local\\Temp\\rust_mozprofileFJAK4J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63261/devtools/browser/b8a5b6ad-883e-484e-b263-82596c69d109
+1646280689610	Marionette	INFO	Listening on port 63266
+1646280689728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://connect.secure.wellsfargo.com/auth/login/static/js/general_alt.js?seed=AABC701_AQAAKl9sjizKp9yFFrTR1BypFn13VIwSQH1DwXUIsbN0uyx8S-nr&X-G2Q3kxs3--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.wellsfargo.com/tracking/gb/detector-dom.min.js, line 6: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://connect.secure.wellsfargo.com/AIDO/trx.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://connect.secure.wellsfargo.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://connect.secure.wellsfargo.com"
+1646280698264	Marionette	INFO	Stopped listening on port 63266
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+hecksAndLetAttackersInterceptMyData]
+console.error: QuickSuggest: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 132))
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646280740934	geckodriver	INFO	Listening on 127.0.0.1:63420
+1646280744011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63421" "-no-remote" "-profile" "C:\\Users\\Huy\\AppData\\Local\\Temp\\rust_mozprofileQIZljX"
+1646280744263	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Huy\\AppData\\Local\\Temp\\rust_mozprofileQIZljX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63421/devtools/browser/8cc0056f-c40e-45cf-b384-1d7456fbba4c
+1646280745734	Marionette	INFO	Listening on port 63426
+1646280746090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://connect.secure.wellsfargo.com/auth/login/static/js/general_alt.js?seed=AABC701_AQAAKl9sjizKp9yFFrTR1BypFn13VIwSQH1DwXUIsbN0uyx8S-nr&X-G2Q3kxs3--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.wellsfargo.com/tracking/gb/detector-dom.min.js, line 6: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://connect.secure.wellsfargo.com/AIDO/trx.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://connect.secure.wellsfargo.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a 1646280763664	Marionette	INFO	Stopped listening on port 63483
+cons1646280770824	Marionette	INFO	Stopped listening on port 63426
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
